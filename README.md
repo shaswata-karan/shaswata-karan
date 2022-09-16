@@ -2,7 +2,9 @@
 
 <h2 align="center">Hi there <img src="https://github.com/shaswata-karan/shaswata-karan/blob/main/Hi.gif" width="30"> I'm Shaswata Karan !!</h2>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&theme+react-dark&size=20&center=true&vCenter=true&lines=Hi%2C+Nice+to+see+you+here+!!">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswata-karan&label=Profile%20views&color=0e75b6&style=flat" alt="shaswata-karan" /> </p>
 
