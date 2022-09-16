@@ -36,6 +36,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaswata-karan&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswata-karan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## Contribution Graph
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shaswata-karan&theme=react-dark&hide_border=true&area=true)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
