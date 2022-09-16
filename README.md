@@ -1,5 +1,7 @@
 ![Header](https://github.com/shaswata-karan/shaswata-karan/blob/main/header.png)
+
 <h2 align="center">Hi there <img src="https://github.com/shaswata-karan/shaswata-karan/blob/main/Hi.gif" width="30"> I'm Shaswata Karan !!</h2>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswata-karan&label=Profile%20views&color=0e75b6&style=flat" alt="shaswata-karan" /> </p>
