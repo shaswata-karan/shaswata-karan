@@ -40,14 +40,6 @@
 
 <hr>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="450px"/>
-
-<hr>
-
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
  
