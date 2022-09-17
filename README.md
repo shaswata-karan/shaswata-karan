@@ -47,7 +47,7 @@
       <img height="140" width="140" src="https://user-images.githubusercontent.com/78967360/158388859-2bac10f7-efd5-45d7-93bb-777271b5426f.png">
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswata-karan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="442px" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswata-karan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shaswata-karan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450px"/>
 
