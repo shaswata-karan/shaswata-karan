@@ -37,7 +37,7 @@
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=shaswata-karan&theme=juicyfresh" alt="shaswata-karan" /></a> </p>
 
 ## Overall Profile Stats:
