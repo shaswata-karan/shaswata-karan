@@ -49,14 +49,3 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaswata-karan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shaswata-karan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450px"/>
-
-<hr>
-
-<h3 align="left">Let's Connect:</h3>
-<p align="left">
- 
-<a href="https://fb.com/shaswata.karan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaswata.karan" height="30" width="40" /> </a>
-<a href="https://instagram.com/shaswata.jpeg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaswata.jpeg" height="30" width="40" /> </a>
-<a href="https://linkedin.com/in/shaswata-karan-08b194197" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaswata-karan-08b194197" height="30" width="40" /></a>
- 
-</p>
