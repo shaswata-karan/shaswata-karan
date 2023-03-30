@@ -50,8 +50,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shaswata-karan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450px"/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shaswata-karan&theme=react-dark&hide_border=true&area=true)
-
 <hr>
 
 <h3 align="left">Let's Connect:</h3>
