@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/shaswata-karan](github.com/shaswata-karan)
 
-- 📫 Rreach out to me @**shaswatakaran2016@gmail.com**
+- 📫 Rreach out to me **shaswatakaran2016@gmail.com**
 
 - 🚀 Connect with me [https://linktr.ee/shaswatakaran](https://linktr.ee/shaswatakaran)
 
