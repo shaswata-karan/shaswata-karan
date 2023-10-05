@@ -13,9 +13,9 @@
 # About Me: 🤔
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [github.com/shaswata-karan](github.com/shaswata-karan)
+- 👨‍💻 All of my projects are available at [github.com/shaswata-karan](https://github.com/shaswata-karan)
 
-- 📫 Rreach out to me **shaswatakaran2016@gmail.com**
+- 📫 Reach out to me **shaswatakaran2016@gmail.com**
 
 - 🚀 Connect with me [linktr.ee/shaswata.karan](https://linktr.ee/shaswata..karan)
 
