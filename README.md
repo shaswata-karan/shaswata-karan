@@ -17,7 +17,7 @@
 
 - 📫 Rreach out to me **shaswatakaran2016@gmail.com**
 
-- 🚀 Connect with me [https://linktr.ee/shaswatakaran](https://linktr.ee/shaswata.karan)
+- 🚀 Connect with me [linktr.ee/shaswata.karan](https://linktr.ee/shaswata..karan)
 
 <h3 align="left">Languages and Tools:</h3>
 
