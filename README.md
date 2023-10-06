@@ -17,7 +17,7 @@
 
 - 📫 Reach out to me **shaswatakaran2016@gmail.com**
 
-- 🚀 Connect with me [MySocials](https://linktr.ee/shaswata.karan)
+- 🚀 Connect with me on [Social Media](https://linktr.ee/shaswata.karan)
 
 <h3 align="left">Languages and Tools:</h3>
 
