@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shaswata-karan&label=Profile%20views&color=0e75b6&style=flat" alt="shaswata-karan" /> </p>
 
 # About Me: 🤔
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java & JavaScript**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shaswata-karan)
 
