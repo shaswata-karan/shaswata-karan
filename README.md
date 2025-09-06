@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi there <img src="https://github.com/shaswata-karan/shaswata-karan/blob/main/Hi.gif" width="30"> I'm Shaswata Karan !!</h2>
 
-<h3  align="center">Budding Computer Science Engineer from University of Engineering & Management (UEM), Kolkata pursuing his B.Tech degree. 22 years old, with a lot to learn and goals to accomplish.</h3>
+<h3  align="center">Computer Science Graduate from University of Engineering & Management Kolkata(UEMK), 24 years old, with a lot to learn and goals to accomplish.</h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Mitr&theme+react-dark&size=20&center=true&vCenter=true&lines=Nice+to+see+you+here+!!">
